@@ -1,5 +1,5 @@
 _repo: A-History-of-the-Nations-and-Empires-Involved-and-a-Study-of-the-Events-Culminating-in-the-Gre__3779
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -25,6 +25,7 @@ subjects:
 - !lcsh 'World War, 1914-1918 -- Causes'
 - !lcsh 'Europe -- History -- 1871-1918'
 - !lcc 'D'
+- GITenberg
 title: A History of the Nations and Empires Involved and a Study of the Events Culminating
   in the Great Conflict
 url: http://www.gutenberg.org/ebooks/3779
